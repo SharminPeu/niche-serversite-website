@@ -1,7 +1,6 @@
 {
   "name": "niche-products-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -16,5 +15,14 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongodb": "^4.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course-4/niche-website-server-side-SharminPeu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course-4/niche-website-server-side-SharminPeu/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course-4/niche-website-server-side-SharminPeu#readme",
+  "description": ""
 }
